@@ -1,0 +1,11 @@
+#container {
+  border: 1px solid red;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+#mycanvas {
+  border: 1px dashed blue;
+  box-sizing: border-box;
+  margin: 0;
+}
